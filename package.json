@@ -5,10 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "ejs": "^2.5.6",
-    "express": "*"
+    "express": "4.15.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node index.js"
+}
   },
   "repository": {
     "type": "git",
