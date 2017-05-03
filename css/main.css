@@ -1,0 +1,19 @@
+body {
+    margin-top: 10%;
+    background-color: darkslategrey;
+}
+.container-fluid {
+    background-color: peru;
+    margin: 0 10% 0 10%;
+    border-radius: 50px;
+    border: 5px solid pink;
+}
+.data {
+    color: aquamarine;
+}
+p {
+    color: black;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 24px;
+}
+
