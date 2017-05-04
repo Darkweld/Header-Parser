@@ -1,7 +1,7 @@
 var express = require("express");
 var app = express();
 
-app.use(express.static(__dirname, "/css"));
+app.use(express.static("css"));
 
 app.set("view engine", "ejs");
 app.set("views", __dirname + "/views");
